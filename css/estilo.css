@@ -61,3 +61,11 @@ nav a:hover, nav a:focus {
     background-color: rgb(225, 230, 236);
     color: rgb(0, 0, 0);
 }
+
+footer{
+    background-color: rgb(141, 202, 243);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 6vh;
+}
